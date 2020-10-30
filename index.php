@@ -13,12 +13,12 @@
         <h2>My Joke</h2>
         
         <h3> Sign in to Facebook:</h3>
-        <h3>    Facebook: Type Password</h3>
-        <h3>    Me: Password</h3>
-        <h3>    Facebook: Your password is incorrect</h3>
-        <h3>    Me: incorrect</h3>
-        <h3>    Facebook: Try again</h3>
-        <h3>    Me: again</h3>
+        <h3><p>Facebook: Type Password</p></h3>
+        <h3><p>Me: Password</p></h3>
+        <h3><p>Facebook: Your password is incorrect</p></h3>
+        <h3><p>Me: incorrect<p/></h3>
+        <h3><p>Facebook: Try again</p></h3>
+        <h3><p>Me: again</p></h3>
         <img src="mama.jpg">
     </body>
 </html>

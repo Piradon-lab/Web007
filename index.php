@@ -13,7 +13,7 @@
         <h2>My Joke</h2>
         
         <h3> Sign in to Facebook:</h3>
-        <h3><p>Facebook: Type Password</p></h3>
+        <p><h3>Facebook: Type Password</h3></p>
         <h3><p>Me: Password</p></h3>
         <h3><p>Facebook: Your password is incorrect</p></h3>
         <h3><p>Me: incorrect<p/></h3>

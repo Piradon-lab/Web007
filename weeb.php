@@ -6,9 +6,7 @@
     <body>
         <h1>Name: Rammakorn Wonjun</h1>
         <p>Nickname: Ram</p>
-        <img src="sheems.jpg">
         <br>
-        <img src="sheems_2.png">
         <a href="https://www.ratatype.com/%22%3EThis is my favorite link</a>
 
         <h2>My Joke</h2>
